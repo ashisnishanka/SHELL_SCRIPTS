@@ -1,0 +1,6 @@
+#!bin/bash
+var="idreamitsolution"
+var1="devops"
+echo "this is $var "
+echo "in $var we will do $var1"
+

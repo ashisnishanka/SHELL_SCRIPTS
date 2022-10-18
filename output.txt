@@ -1,0 +1,8 @@
+total 8
+-rw-rw-r-- 1 ec2-user ec2-user  0 Oct 17 03:47 aws
+-rw-rw-r-- 1 ec2-user ec2-user 88 Oct 17 23:33 demo.txt
+-rw-rw-r-- 1 ec2-user ec2-user  0 Oct 17 03:47 devops
+-rwxrw-rw- 1 ec2-user ec2-user 34 Oct 17 03:52 myscript
+-rw-rw-r-- 1 ec2-user ec2-user  0 Oct 17 03:52 mytext.txt
+-rw-rw-r-- 1 ec2-user ec2-user  0 Oct 18 00:11 output.txt
+-rw-rw-r-- 1 ec2-user ec2-user  0 Oct 17 03:47 python
